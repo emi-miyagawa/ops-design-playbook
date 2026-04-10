@@ -198,8 +198,7 @@ It is a representation of:
 - how I make decisions under constraints
 - how I design systems that scale
 
-
-  ## What This Means in Practice
+## What This Means in Practice
 I am not optimizing tasks.
 
 I am designing systems that:

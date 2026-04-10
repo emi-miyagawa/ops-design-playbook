@@ -20,6 +20,12 @@ My focus is not only on improving workflows, but on designing systems that:
 - are usable by non-experts
 - balance control and flexibility
 
+I specialize in designing operations under constraints.
+
+Especially in environments where:
+- authority is limited
+- information is incomplete
+- coordination is costly
 ---
 
 ## Core Capabilities

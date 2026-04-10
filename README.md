@@ -185,6 +185,7 @@ This repository represents how I approach:
 It is intended as a demonstration of applied thinking, not just experience.
 
 
+
 ## Supporting Work
 
 - Data Management & Rule Design: [https://github.com/emi-miyagawa/data-management-operations]
@@ -199,4 +200,14 @@ It is a representation of:
 - how I identify problems
 - how I make decisions under constraints
 - how I design systems that scale
-  
+
+  ## What This Means in Practice
+
+I am not optimizing tasks.
+
+I am designing systems that:
+- continue to work under imperfect conditions
+- scale beyond individual capability
+- reduce hidden operational risks
+
+This is the type of work I aim to contribute in operations roles.

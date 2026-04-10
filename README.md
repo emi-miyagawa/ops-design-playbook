@@ -1,5 +1,16 @@
 # Operations Design Playbook
 
+## What I Actually Do
+
+I design operations that:
+- handle non-standard cases
+- remain stable under constraints
+- reduce cognitive load for users
+- balance control and flexibility
+
+In short:
+I translate ambiguity into executable systems.
+
 ## Overview
 I specialize in structuring operations to reduce friction and translate ambiguity into executable processes.
 
@@ -56,7 +67,11 @@ Prioritized operational continuity over strict enforcement.
 
 **Result**  
 - Rejection rate reduced by ~50%  
-- Stabilized operations at scale  
+- Stabilized operations at scale
+
+**Why this matters**
+- Enables scalable operations under constraints
+- Reduces dependency on individual judgment
 
 ---
 
@@ -169,3 +184,13 @@ It is intended as a demonstration of applied thinking, not just experience.
 - Data Management & Rule Design: [https://github.com/emi-miyagawa/data-management-operations]
 - Case Studies: [https://github.com/emi-miyagawa/ops-case-studies]
 - Automation (GAS):  [https://github.com/emi-miyagawa/operations-automation-gas]
+
+## How to Read This
+
+This repository is not a collection of tasks.
+
+It is a representation of:
+- how I identify problems
+- how I make decisions under constraints
+- how I design systems that scale
+  

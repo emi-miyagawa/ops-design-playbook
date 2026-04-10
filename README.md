@@ -184,16 +184,13 @@ This repository represents how I approach:
 
 It is intended as a demonstration of applied thinking, not just experience.
 
-
-
 ## Supporting Work
+- Data Management & Rule Design: [data-management-operations](https://github.com/emi-miyagawa/data-management-operations)
+- Case Studies: [ops-case-studies](https://github.com/emi-miyagawa/ops-case-studies)
+- Automation (GAS): [operations-automation-gas](https://github.com/emi-miyagawa/operations-automation-gas)
 
-- Data Management & Rule Design: [https://github.com/emi-miyagawa/data-management-operations]
-- Case Studies: [https://github.com/emi-miyagawa/ops-case-studies]
-- Automation (GAS):  [https://github.com/emi-miyagawa/operations-automation-gas]
 
 ## How to Read This
-
 This repository is not a collection of tasks.
 
 It is a representation of:
@@ -201,8 +198,8 @@ It is a representation of:
 - how I make decisions under constraints
 - how I design systems that scale
 
-  ## What This Means in Practice
 
+  ## What This Means in Practice
 I am not optimizing tasks.
 
 I am designing systems that:

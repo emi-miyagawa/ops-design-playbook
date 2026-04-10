@@ -162,3 +162,10 @@ This repository represents how I approach:
 - Scalable System Thinking
 
 It is intended as a demonstration of applied thinking, not just experience.
+
+
+## Supporting Work
+
+- Data Management & Rule Design: [https://github.com/emi-miyagawa/data-management-operations]
+- Case Studies: [https://github.com/emi-miyagawa/ops-case-studies]
+- Automation (GAS):  [https://github.com/emi-miyagawa/operations-automation-gas]
